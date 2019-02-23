@@ -10,5 +10,7 @@ var quotes = [
 ];
 5. Change the values to whatever you like in the package.JSON file and add your bot token to the auth.JSON file
 6. go to the bot's directory, shift-right click and open cmd/powershell
-7. type node quoteBot.js
-8. You're all up and running
+7. type "npm install discord.io winston –save."
+8. Type "npm install https://github.com/woor/discord.io/tarball/gateway_v6"
+9. type node quoteBot.js
+10. You're all up and running
